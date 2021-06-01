@@ -11,3 +11,65 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.card-image {
+  height: 14rem;
+  padding-top: '56.25%';
+}
+
+.card-root {
+  max-width: 50rem;
+}
+
+.footer{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(235, 195, 64);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.header{
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: rgb(235, 195, 64);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+img.size {
+  text-align:center;
+    margin: 0 auto;
+    padding:0px;
+}
+
+h3 {
+  text-align:center;
+}
+
+h4 {
+  text-align:center;
+}
+
+.home-image {
+  height: 400px;
+  width: 100%;
+}
+
+.sign-up-button {
+  float: right;
+  margin-top: 20px;
+  margin-right: 60px;
+}
+
+.dog-details { 
+  align-items: center;
+  margin: 0 auto;
+  display: grid;
+}
+
+.dog-details .button {
+  margin-top: 20px;
+}

@@ -1,0 +1,145 @@
+{
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Beau",
+      "bio": "Looking for a partner who will play fetch with me",
+      "age": "1",
+      "likes": "Walks, Car Rides, Treats",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/cute-dog-video-lead-1590597482.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Marley",
+      "bio": "Looking for an adventurous dog who wants to travel and see the world with me",
+      "age": "5",
+      "likes": "Swimming, Hiking, Sleeping",
+      "image": "https://hips.hearstapps.com/wdy.h-cdn.co/assets/17/39/1506709524-cola-0247.jpg?crop=1.00xw:0.750xh;0,0.226xh&resize=480:*"
+    },
+    {
+      "id": 3,
+      "name": "Basil",
+      "bio": "I am a shy, quiet dog, who is looking for a lifelong napping partner",
+      "age": "2",
+      "likes": "Cuddling, Napping, Treats",
+      "image": "https://cdn-bkdmc.nitrocdn.com/RkjNGwpDZoBEGpthMfulQpXqdSVdHfAt/assets/static/optimized/blog/wp-content/uploads/2016/02/be96d2755474ada1ac340fa04d8f9d86.cute-dog-dogs-1024x768.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Ozzy",
+      "bio": "I don't get along with other dogs or people, not sure why I'm on here...",
+      "age": "6",
+      "likes": "Biting, Barking, Fighting",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51dEsmKVAkL._AC_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chewie",
+      "bio": "I have tons of energy, I hope you can keep up!",
+      "age": "3",
+      "likes": "Walks, Car Rides, Playing, Food",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthdJSNmx-pMaK889oHwLG8t1PQuVzB3L-zQ&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "name": "Rocky",
+      "bio": "I am older, so I don't have the energy to play too much, looking for a dog to nap and eat with.",
+      "age": "11",
+      "likes": "Napping, Eating, Car Rides",
+      "image": "https://static.toiimg.com/thumb/msid-76904864,width-1070,height-580,resizemode-75,imgsize-181543,pt-32,y_pad-40/76904864.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Coco",
+      "bio": "I like to be the center of attention, not wanting a dog to compete with me, just to keep me company",
+      "age": "7",
+      "likes": "Playing, Barking, Ice Cream",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*"
+    },
+    {
+      "id": 8,
+      "name": "Storm",
+      "bio": "I like to play pretty much all day, hate being in my crate, hoping to find someone to be in the crate with me",
+      "likes": "Fetch, Tug-o-war, Running, Hiking",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8TKb_SAb5Ap7ATmTJPomfO7qTkyUeVfZ54Q&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "name": "Lucy",
+      "bio": "I like to sit around and bark at everything I see, if you do too, hit me up.",
+      "age": "8",
+      "likes": "Barking",
+      "image": "https://www.dogzone.com/images/breeds/beagle.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Sparky",
+      "bio": "I still have some energy left, but not looking for an overly energetic companion.",
+      "age": "10",
+      "likes": "Playing, Eating, Sleeping",
+      "image": "https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/dog_cool_summer_slideshow/1800x1200_dog_cool_summer_other.jpg?resize=750px:*"
+    }
+  ],
+  "userDetails": [
+    {
+      "email": "de@gmail.com",
+      "dogName": "de",
+      "id": 1
+    },
+    {
+      "email": "asdfd@gmail.com",
+      "dogName": "deoaisd",
+      "id": 2
+    },
+    {
+      "email": "deg@gmail.com",
+      "dogName": "deg1234$",
+      "id": 3
+    },
+    {
+      "email": "deoaifnionasdf@gmial.com",
+      "dogName": "aosdfnaiosgniodgnaosiionasd",
+      "id": 4
+    },
+    {
+      "email": "test1@gmail.com",
+      "dogName": "test1",
+      "id": 5
+    },
+    {
+      "email": "d67@gmail.com",
+      "dogName": "dafnsdofn",
+      "id": 6
+    },
+    {
+      "email": "de78@gmail.com",
+      "dogName": "test123",
+      "id": 7
+    },
+    {
+      "email": "d@gmail.com",
+      "dogName": "deven55",
+      "id": 8
+    },
+    {
+      "email": "d3@gmail.com",
+      "dogName": "d45",
+      "id": 9
+    },
+    {
+      "email": "",
+      "dogName": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "dogName": "",
+      "id": 11
+    },
+    {
+      "email": "",
+      "dogName": "",
+      "id": 12
+    }
+  ]
+}
